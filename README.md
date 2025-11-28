@@ -1,17 +1,17 @@
-<h2>💫 Hi 👋, I'm Sumit Bhatt</h2>
-<p>A passionate Data Scientist &nbsp;||&nbsp; Problem Solver</p>
+<h2>👋 Hi, I'm Sumit Bhatt</h2>
+<p>A Data Analyst skilled in Python, SQL, Power BI, and data visualization. I work on transforming data into clear, actionable insights.</p>
 
-<p>Email Me 👉 ✉️ <a href="mailto:sumitbhatt443@gmail.com">sumitbhatt443@gmail.com</a> for Collaboration / Project or Anything Else. 😊😊</p>
+<p>📧 Email Me 👉 <a href="mailto:sumitbhatt443@gmail.com">sumitbhatt443@gmail.com</a> for Collaboration / Projects / Queries. 🙂🚀</p>
 
 <ul>
-  <li>🌱 I’m currently learning: Practicing Python for data analysis, including libraries like Pandas, NumPy and Matplotlib.</li>
-  <li>👯 I’m looking to collaborate on: Data science or Python-based projects that involve real-world problem-solving. 😉</li>
-  <li>🤔 I’m looking for help with: Understanding how to manage and optimize databases in real-world applications. 🤧</li>
-  <li>💬 Ask me about: How to build small tech projects as a student or improve your GitHub profile. 💻</li>
-  <li>📫 How to reach me: <a href="mailto:sumitbhatt443@gmail.com">sumitbhatt443@gmail.com</a></li>
-  <li>😄 Pronouns: Sumit Bhatt</li>
-  <li>⚡ Fun fact: I love exploring tech YouTube channels and debugging is my therapy! 😂</li>
+    <li>📊 I'm currently learning: Advanced Python analytics, statistical modeling, and automation workflows.</li>
+    <li>🤝 I'm looking to collaborate on: Data analytics, machine learning, and dashboard development projects.</li>
+    <li>🧩 I can help with: Data cleaning, EDA, model building, SQL queries, and end-to-end analytics solutions.</li>
+    <li>💬 Ask me about: How to build clean dashboards, structure ML projects, or improve analytical workflows. 📘</li>
+    <li>📨 How to reach me: <a href="mailto:sumitbhatt443@gmail.com">sumitbhatt443@gmail.com</a></li>
+    <li>🔥 Interests: Learning new tech, working on analytics projects, and improving real-world problem-solving skills.</li>
 </ul>
+
 
 
 ## 🌐 Socials:
